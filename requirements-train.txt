@@ -1,0 +1,4 @@
+-r requirements.txt
+kaggle
+tqdm
+scikit-learn
